@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "image": "public/images/Meg.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "public/images/lois.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "public/images/jillian.png",
+      "clicked": false
+    }
+    ,
+    {
+      "id": 4,
+      "image": "public/images/herbert.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "public/images/consuela.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "public/images/cleveland.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "public/images/chris.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "public/images/carol.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "public/images/Brian.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "public/images/bertram.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "public/images/angela.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "public/images/ali.png",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "public/images/mort.png",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "public/images/opie.png",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "public/images/peter.png",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "image": "public/images/Quagmire.png",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "image": "public/images/Stewie.png",
+      "clicked": false
+    }
+  ]
